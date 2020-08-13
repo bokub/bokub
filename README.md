@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+#### I'm Boris, freelance full-stack developper from Toulouse, France
+
+![Stats](https://github-readme-stats.bokub.vercel.app/api?username=bokub&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
 
 <!--
 **bokub/bokub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
