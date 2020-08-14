@@ -1,20 +1,37 @@
-### Hi there 👋 
+## Hi there 👋  
+### I'm Boris, freelance full-stack developer from Toulouse, France
 
-#### I'm Boris, freelance full-stack developper from Toulouse, France
+Below are some of my personal open-source projects
 
-![Stats](https://github-readme-stats.bokub.vercel.app/api?username=bokub&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
+If you can read french, you can learn more about my professionnal experience on [**boris.sh**](https://boris.sh)
+___
 
-<!--
-**bokub/bokub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I like doing small and simple web apps, without any back-end
 
-Here are some ideas to get you started:
+[![nopaste](https://ghrs.vercel.app/api/pin/?username=bokub&repo=nopaste)](https://github.com/bokub/nopaste)
+[![vanity-eth](https://ghrs.vercel.app/api/pin/?username=bokub&repo=vanity-eth)](https://github.com/bokub/vanity-eth)
+[![git-history-editor](https://ghrs.vercel.app/api/pin/?username=bokub&repo=git-history-editor)](https://github.com/bokub/git-history-editor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I've made various Node.js libraries & tools, mostly for fun
+
+[![gradient-string](https://ghrs.vercel.app/api/pin/?username=bokub&repo=gradient-string)](https://github.com/bokub/gradient-string)
+[![chalk-animation](https://ghrs.vercel.app/api/pin/?username=bokub&repo=chalk-animation)](https://github.com/bokub/chalk-animation)
+[![lyo](https://ghrs.vercel.app/api/pin/?username=bokub&repo=lyo)](https://github.com/bokub/lyo)
+[![wakatime-to-toggl](https://ghrs.vercel.app/api/pin/?username=bokub&repo=wakatime-to-toggl)](https://github.com/bokub/wakatime-to-toggl)
+[![linky-cli](https://ghrs.vercel.app/api/pin/?username=bokub&repo=linky-cli)](https://github.com/bokub/linky-cli)
+[![gradient-badge](https://ghrs.vercel.app/api/pin/?username=bokub&repo=gradient-badge)](https://github.com/bokub/gradient-badge)
+
+#### I like home automation, especially [home-assistant](https://www.home-assistant.io/) which I use everyday
+
+[![rgb-light-card](https://ghrs.vercel.app/api/pin/?username=bokub&repo=rgb-light-card)](https://github.com/bokub/rgb-light-card)
+[![ha-history-stats](https://ghrs.vercel.app/api/pin/?username=bokub&repo=ha-history-stats)](https://github.com/bokub/ha-history-stats)
+
+#### I work with a fully customized [i3](https://i3wm.org/) running on Ubuntu
+
+[![i3-config](https://ghrs.vercel.app/api/pin/?username=bokub&repo=i3-config)](https://github.com/bokub/i3-config)
+
+___
+
+#### In a nutshell:
+
+[![summary](https://ghrs.vercel.app/api?username=bokub&count_private=true&include_all_commits=true&show_icons=true&theme=vue)](https://github.com/bokub)
