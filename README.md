@@ -29,9 +29,3 @@ ___
 #### I work with a fully customized [i3](https://i3wm.org/) running on Ubuntu
 
 [![i3-config](https://ghrs.vercel.app/api/pin/?username=bokub&repo=i3-config)](https://github.com/bokub/i3-config)
-
-___
-
-#### In a nutshell:
-
-[![summary](https://ghrs.vercel.app/api?username=bokub&count_private=true&include_all_commits=true&show_icons=true&theme=vue)](https://github.com/bokub)
