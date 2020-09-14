@@ -4,7 +4,6 @@
 > Below are some of my personal open-source projects.
 >
 > If you can read french, you can learn more about my professionnal experience on [**boris.sh**](https://boris.sh)
-___
 
 ### I like doing small and simple web apps, without any back-end
 
