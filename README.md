@@ -17,7 +17,7 @@
 [![chalk-animation](https://ghrs.vercel.app/api/pin/?username=bokub&repo=chalk-animation)](https://github.com/bokub/chalk-animation)
 [![lyo](https://ghrs.vercel.app/api/pin/?username=bokub&repo=lyo)](https://github.com/bokub/lyo)
 [![wakatime-to-toggl](https://ghrs.vercel.app/api/pin/?username=bokub&repo=wakatime-to-toggl)](https://github.com/bokub/wakatime-to-toggl)
-[![linky-cli](https://ghrs.vercel.app/api/pin/?username=bokub&repo=linky-cli)](https://github.com/bokub/linky-cli)
+[![linky](https://ghrs.vercel.app/api/pin/?username=bokub&repo=linky)](https://github.com/bokub/linky)
 [![gradient-badge](https://ghrs.vercel.app/api/pin/?username=bokub&repo=gradient-badge)](https://github.com/bokub/gradient-badge)
 
 ### I like home automation, especially [home-assistant](https://www.home-assistant.io/) which I use everyday
