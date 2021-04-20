@@ -10,6 +10,7 @@
 [![nopaste](https://ghrs.vercel.app/api/pin/?username=bokub&repo=nopaste)](https://github.com/bokub/nopaste)
 [![vanity-eth](https://ghrs.vercel.app/api/pin/?username=bokub&repo=vanity-eth)](https://github.com/bokub/vanity-eth)
 [![git-history-editor](https://ghrs.vercel.app/api/pin/?username=bokub&repo=git-history-editor)](https://github.com/bokub/git-history-editor)
+[![stravanity](https://ghrs.vercel.app/api/pin/?username=bokub&repo=stravanity)](https://github.com/bokub/stravanity)
 
 ### I've made various Node.js libraries & tools, mostly for fun
 
