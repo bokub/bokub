@@ -24,8 +24,5 @@
 ### I like home automation, especially [home-assistant](https://www.home-assistant.io/) which I use everyday
 
 [![rgb-light-card](https://ghrs.vercel.app/api/pin/?username=bokub&repo=rgb-light-card)](https://github.com/bokub/rgb-light-card)
+[![rgb-light-card](https://ghrs.vercel.app/api/pin/?username=bokub&repo=home-assistant-extension)](https://github.com/bokub/home-assistant-extension)
 [![ha-history-stats](https://ghrs.vercel.app/api/pin/?username=bokub&repo=ha-history-stats)](https://github.com/bokub/ha-history-stats)
-
-### I work with a fully customized [i3](https://i3wm.org/) running on Ubuntu
-
-[![i3-config](https://ghrs.vercel.app/api/pin/?username=bokub&repo=i3-config)](https://github.com/bokub/i3-config)
