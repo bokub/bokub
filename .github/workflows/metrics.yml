@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Paris
+          config_display: large
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           committer_gist: a299e5bf8043cf7bc08284f339e52468
