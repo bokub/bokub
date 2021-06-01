@@ -22,5 +22,6 @@ jobs:
           base: ""
           config_timezone: Europe/Paris
           plugin_notable: yes
-          committer_gist: 9a689a8cc218c040416bbd29e8cb3dd9
+          plugin_notable_filter: stars:>100
+          committer_gist: a299e5bf8043cf7bc08284f339e52468
           output_action: gist
