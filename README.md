@@ -1,16 +1,10 @@
 ## Hi there 👋  
 
-## I'm Boris, freelance full-stack developer from Toulouse, France
-
-![Metrics](https://gist.githubusercontent.com/bokub/a299e5bf8043cf7bc08284f339e52468/raw/github-metrics.svg)
-
----
+### I'm Boris, freelance full-stack developer from Toulouse, France
 
 Below are some of my personal open-source projects.
 
 If you can read french, you can learn more about my professionnal experience on [**boris.sh**](https://boris.sh)
-
----
 
 
 #### I like doing small and simple web apps, without any back-end
