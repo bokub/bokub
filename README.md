@@ -87,6 +87,12 @@ If you can read French, you can learn more about my professional experience on [
     <img alt="Home Assistant Extension" src="https://ghrs.vercel.app/api/pin/?username=bokub&repo=home-assistant-extension">
   </picture>
 </a>
+<a href="https://github.com/bokub/ha-linky">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=bokub&repo=ha-linky&theme=github_dark">
+    <img alt="History Stats" src="https://ghrs.vercel.app/api/pin/?username=bokub&repo=ha-linky">
+  </picture>
+</a>
 <a href="https://github.com/bokub/ha-history-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=bokub&repo=ha-history-stats&theme=github_dark">
